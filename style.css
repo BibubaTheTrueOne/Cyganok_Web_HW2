@@ -1,0 +1,58 @@
+body {
+background: url(medwed.jpg) no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+
+.main {
+    background-color: #00FA9A;
+    width: 50%;
+	height: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+    padding-top: 5px;
+    text-align: center;
+    opacity: 0.9;
+    border: 3px solid black;
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+    margin: 10px 5px;
+}
+
+.name{
+    font-family: "Times New Roman", bold;
+    font-size: 3em;
+    margin-top: 10px;
+    margin-bottom: -8px;
+}
+
+.about{
+    font-size: 2em;
+    font-family: "Times New Roman";
+    margin-top: -6px;
+    margin-bottom: 8px;
+}
+
+.contacts{
+    font-family: "Times New Roman", bold;
+    font-size: 15px;
+    margin-top: -15px;
+    margin-bottom: -10px;
+}
+.number{
+    font-family: 'Times New Roman', Times New Roman, monospace;
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+}
+.mail{
+    font-family: 'Comic Sans', Comic Sans, monospace;
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+}
