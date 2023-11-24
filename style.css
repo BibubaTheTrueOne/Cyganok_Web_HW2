@@ -30,28 +30,28 @@ background-size: 100% 100%;
     margin-bottom: -8px;
 }
 
-.about{
+.hobbies{
     font-size: 2em;
     font-family: "Times New Roman";
     margin-top: -6px;
     margin-bottom: 8px;
 }
-
+.email{
+    font-family: 'Times New Roman', Times New Roman;
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+}
 .contacts{
     font-family: "Times New Roman", bold;
     font-size: 15px;
     margin-top: -15px;
     margin-bottom: -10px;
 }
-.number{
-    font-family: 'Times New Roman', Times New Roman, monospace;
+.phone{
+    font-family: 'Times New Roman', Times New Roman;
     font-size: 15px;
     text-decoration: none;
     color: black;
 }
-.mail{
-    font-family: 'Comic Sans', Comic Sans, monospace;
-    font-size: 15px;
-    text-decoration: none;
-    color: black;
-}
+
